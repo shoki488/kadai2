@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+
+#StopWatch{
+    font-size: 20px;
+}
+
+
+#time{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 35px;
+    
+}
+
+#Totlebotton{
+    margin-top: 20px;
+    
+}
+
+#start{
+    border: solid 1px black;
+    font-weight: 600;
+    padding: 10px;
+    background-color: silver;
+}
+#stop{
+    font-weight: 600;
+    padding: 10px;
+    background-color: silver;
+    border: solid 1px black;
+}
+#reset{
+    border: solid 1px black;
+    font-weight: 600;
+    padding: 10px;
+    background-color: silver;
+}
